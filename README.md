@@ -41,7 +41,7 @@ System.Console.WriteLine("Hello World");
 
 
 ## ⭐ Informações sobre minha conta GitHub
-  
+ <br/>
 <!-- <p align="center">
 <a href="https://github.com/YatoEbisu">
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=YatoEbisu&theme=tokyonight"/>
@@ -50,12 +50,11 @@ System.Console.WriteLine("Hello World");
 
 <p align="left">
 <a href="https://github.com/YatoEbisu">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/?username=YatoEbisu&theme=onedark&count_private=true&show_icons=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YatoEbisu&theme=onedark&layout=compact&langs_count=8"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/?username=YatoEbisu&theme=dracula&count_private=true&show_icons=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YatoEbisu&theme=dracula&layout=compact&langs_count=8"/>
 </a>
 </p>
 
-<br/>
 <br/>
 <br/>
 
