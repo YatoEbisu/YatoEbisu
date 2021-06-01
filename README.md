@@ -1,6 +1,6 @@
-![Profile Views](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=YatoEbisu&repo=YatoEbisu&countColor=purple)
-
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+
+![Profile Views](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=YatoEbisu&repo=YatoEbisu&countColor=purple)
 
 ```csharp
 System.Console.WriteLine("Hello World");
@@ -11,7 +11,6 @@ System.Console.WriteLine("Hello World");
 > Sou desenvolvedor .NET a um pouco mais de 1 anos com experiência em trabalho em equipe e nas tecnologias .NET CORE, ASP.NET CORE, , PostgreSQL e frameworks JS como, JQuery.
 
 
-<br/>
 <br/>
 <br/>
 
