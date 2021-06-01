@@ -47,8 +47,8 @@
 
 <p align="left">
 <a href="https://github.com/YatoEbisu">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/?username=YatoEbisu&theme=tokyonight&count_private=true&show_icons=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YatoEbisu&theme=tokyonight&layout=compact&langs_count=8"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/?username=YatoEbisu&theme=default&count_private=true&show_icons=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YatoEbisu&theme=default&layout=compact&langs_count=8"/>
 </a>
 </p>
 
