@@ -5,8 +5,8 @@
 
 > Sou desenvolvedor .NET a um pouco mais de 1 anos com experiência em trabalho em equipe e nas tecnologias .NET CORE, ASP.NET CORE, , PostgreSQL e frameworks JS como, JQuery.
 
-----
 
+<br/>
 <br/>
 <br/>
 
