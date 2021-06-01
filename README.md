@@ -1,6 +1,9 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
-## ☕ Olá, meu nome é <strong> Breno !</strong>
+```csharp
+System.Console.WriteLine("Hello World");
+```
+
 <br/>
 
 > Sou desenvolvedor .NET a um pouco mais de 1 anos com experiência em trabalho em equipe e nas tecnologias .NET CORE, ASP.NET CORE, , PostgreSQL e frameworks JS como, JQuery.
@@ -47,8 +50,8 @@
 
 <p align="left">
 <a href="https://github.com/YatoEbisu">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/?username=YatoEbisu&theme=default&count_private=true&show_icons=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YatoEbisu&theme=default&layout=compact&langs_count=8"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/?username=YatoEbisu&theme=onedark&count_private=true&show_icons=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YatoEbisu&theme=onedark&layout=compact&langs_count=8"/>
 </a>
 </p>
 
