@@ -1,20 +1,18 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
-## 💜 Olá, meu nome é <strong> Breno !</strong>
-
-
-
+## ☕ Olá, meu nome é <strong> Breno !</strong>
+<br/>
 
 > Sou desenvolvedor .NET a um pouco mais de 1 anos com experiência em trabalho em equipe e nas tecnologias .NET CORE, ASP.NET CORE, , PostgreSQL e frameworks JS como, JQuery.
 
-
-
-
-
-
 ----
 
+<br/>
+<br/>
+
 ## 🛠 Linguagens & ferramentas
+
+<br/>
 
 <code><img height="32" src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png" alt="c"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/></code>
@@ -30,13 +28,15 @@
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
   <code><img height="32" src="https://user-images.githubusercontent.com/674621/71187801-14e60a80-2280-11ea-94c9-e56576f76baf.png" alt="Visual Studio Code"/></code>
   <code><img height="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Visual_Studio_2017_Logo.svg/1200px-Visual_Studio_2017_Logo.svg.png" alt="Visual Studio"/></code>
-    <code><img height="32" src="https://user-images.githubusercontent.com/674621/71187801-14e60a80-2280-11ea-94c9-e56576f76baf.png" alt="Visual Studio Code"/></code>
      <code><img height="32" src="https://seeklogo.com/images/P/postman-logo-F43375A2EB-seeklogo.com.png" alt="Postman"/></code>
+<br/>
+<br/>
+<br/>
+<br/>
 
----
+
 
 ## ⭐ Informações sobre minha conta GitHub
-![Github Contributions](https://github-readme-streak-stats.herokuapp.com/?user=YatoEbisu)
   
 <!-- <p align="center">
 <a href="https://github.com/YatoEbisu">
@@ -51,7 +51,9 @@
 </a>
 </p>
 
----
+<br/>
+<br/>
+<br/>
 
 ##   🤝 Contato
 <a href="mailto:BrenoSilvaFortunato@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
