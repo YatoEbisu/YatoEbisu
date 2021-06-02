@@ -1,6 +1,6 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
-![Profile Views](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=YatoEbisu&repo=YatoEbisu&countColor=purple)
+![Profile Views](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=YatoEbisu&repo=YatoEbisu&countColor=PaleVioletRed)
 
 ```csharp
 System.Console.WriteLine("Hello World");
