@@ -43,13 +43,13 @@ System.Console.WriteLine("Hello World");
 
 ## ⭐ Informações sobre minha conta GitHub
  <br/>
-<!-- <p align="center">
+<p align="center">
 <a href="https://github.com/YatoEbisu">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=YatoEbisu&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=YatoEbisu&theme=dracula"/>
 </a>
-</p> -->
+</p> 
 
-<p align="left">
+<p align="center">
 <a href="https://github.com/YatoEbisu">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/?username=YatoEbisu&theme=dracula&count_private=true&show_icons=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YatoEbisu&theme=dracula&layout=compact&langs_count=8"/>
