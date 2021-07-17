@@ -8,7 +8,7 @@ System.Console.WriteLine("Hello World");
 
 <br/>
 
-> Sou desenvolvedor .NET a um pouco mais de 1 anos com experiência em trabalho em equipe e nas tecnologias .NET CORE, ASP.NET CORE, PostgreSQL, HTML, CSS e JS com JQuery.
+> Desenvolvedor .NET, com experiência em trabalho em equipe e nas tecnologias .NET CORE, ASP.NET CORE, PostgreSQL, HTML, CSS e JS com JQuery.
 
 
 <br/>
