@@ -3,7 +3,7 @@
 ![Profile Views](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=YatoEbisu&repo=YatoEbisu&countColor=PaleVioletRed)
 
 ```csharp
-System.Console.WriteLine("Hello World");
+System.Console.WriteLine("Hello");
 ```
 
 <br/>
